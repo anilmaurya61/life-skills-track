@@ -9,24 +9,28 @@ Object-oriented programming, or OOP, is like a building block for computer progr
 ## 3. Basic OOP Ideas
 OOP is built on some simple ideas:
 
-- **Encapsulation:** This is like putting things in a box. It helps keep data and the actions that work on that data together in one place. This makes the program easier to understand and change.
+- **Encapsulation:** Encapsulation is an attribute of an object, and it contains all data that is hidden. That hidden data can be restricted to the members of that class.
+  
+Levels are Public, Protected, Private, Internal, and Protected Internal.
 
-- **Inheritance:** Think of this as using a blueprint to build things. It lets you make new things based on old things. This saves time and makes it easier to understand and manage your code.
+- **Inheritance:** Inheritance is a concept where one class shares the structure and behavior defined in another class. If Inheritance is applied to one class is called Single Inheritance, and if it depends on multiple classes, then it is called multiple
+Inheritance.
 
-- **Polymorphism:** This means one name, many forms. It allows different objects to do similar things, even if they look different. It's like having different models of a car, but you can drive them all the same way.
+- **Polymorphism:** Polymorphism is nothing but assigning behavior or value in a subclass to something that was already declared in the main class. Simply, polymorphism takes more than one form.
 
-- **Abstraction:** This is like looking at the big picture and ignoring the small details. It helps you focus on what's important and makes the program easier to work with.
+- **Abstraction:** Abstraction means displaying only essential information and hiding the details. 
 
 ## 4. Important OOP Words
 To understand OOP better, you need to know some keywords:
 
-- **Class:** A class is like a recipe for making something. It tells you what that thing is made of and how it works.
+- **Class:** A class is simply a representation of a type of object. It is the
+blueprint/plan/template that describes the details of an object.
 
-- **Object:** An object is like the actual thing made from a class recipe. It has all the features and functions the class described.
+- **Object:** An object is an instance of a class. It has its own state, behavior, and identity.
+  
+- **Method:** A method in object-oriented programming (OOP) is a procedure associated with an object, and generally also a message. 
 
-- **Method:** A method is like a recipe step. It's a set of instructions for the object to follow.
-
-- **Constructor:** This is like a special recipe step that sets things up when you make an object.
+- **Constructor:** A constructor is a method used to initialize the state of an object, and it gets invoked at the time of object creation. Rules for constructor are:
 
 ## 5. How OOP is Used
 OOP is used in many areas:
