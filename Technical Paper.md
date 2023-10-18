@@ -10,8 +10,7 @@ Object-oriented programming, or OOP, is like a building block for computer progr
 OOP is built on some simple ideas:
 
 - **Encapsulation:** Encapsulation is an attribute of an object, and it contains all data that is hidden. That hidden data can be restricted to the members of that class.
-  
-Levels are Public, Protected, Private, Internal, and Protected Internal.
+  Levels are Public, Protected, Private, Internal, and Protected Internal.
 
 - **Inheritance:** Inheritance is a concept where one class shares the structure and behavior defined in another class. If Inheritance is applied to one class is called Single Inheritance, and if it depends on multiple classes, then it is called multiple
 Inheritance.
